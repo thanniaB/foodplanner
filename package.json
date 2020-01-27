@@ -1,0 +1,22 @@
+{
+  "name": "foodplanner",
+  "version": "1.0.0",
+  "description": "\"Experimental app to plan my diet\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanniaB/foodplanner.git"
+  },
+  "author": "thanniablanchet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanniaB/foodplanner/issues"
+  },
+  "homepage": "https://github.com/thanniaB/foodplanner#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
